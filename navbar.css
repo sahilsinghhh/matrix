@@ -1,0 +1,112 @@
+/* 
+*{margin:0 ; padding: 0; box-sizing: border-box;} */
+
+
+#contact_content{
+    /* border: 2px solid red; */
+     position: absolute;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.dropdown-menu{
+    margin-top: 0;
+
+}
+
+.logo{
+    width: 150px;
+    height: 50px;
+}
+
+.my-menu { 
+    /*Sets all the content of dropdown div to center*/ 
+                    text-align: center;  
+                } 
+
+ .figure-caption {    width:150px;
+    text-align: center;
+}        
+
+.content_width{
+    width: 200px;
+}
+
+.dropdown-item {
+    padding-left:0!important ;
+}
+
+.company_submenu_content{
+    /* border: 2px solid black; */
+    margin: 30px;
+}
+
+.founder_content{
+    padding-bottom: 46px;
+    border-radius: 15px;
+}
+
+.dropdown-menu{
+    
+width: 86%!important;
+margin-left:120px;
+
+}
+
+
+.service_book img{
+
+        height: 125px;
+        width: 594px;
+    }
+
+    .service_book_text{
+        width: 170px;
+    }
+
+    .company_text{
+        font-size: 10px;
+    }
+
+    .nav-link:hover{
+        color: #0275d8 !important;
+        /* border-bottom: 1px solid #0275d8 !important; */
+        
+    }
+
+    .nav-link{
+        padding: 13px 31px 22px;
+    }
+
+
+    .nav-item:hover{
+        color: #0275d8 !important;
+        border-bottom: 2px solid #0275d8;
+    }
+
+    .dropdown-item{
+        color:#0275d8;
+    }
+
+ .navbar{
+     padding: 0 !important;
+ }
+    
+.get_started_btn{
+    border-bottom: none!important;
+     margin-top: 10px;
+     margin-right: 50px;
+}
+
+@media only screen and (max-width: 450px) {
+    .dropdown-menu {
+        width: 100%!important;
+        margin-left:0 !important;
+        
+    }
+
+  .site_layout h1{
+      font-size: large;
+  } 
+  }

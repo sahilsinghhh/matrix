@@ -1,0 +1,45 @@
+*{padding:0; margin: 0; box-sizing: border-box; }
+
+.site_layout{
+   
+    padding: 50px;
+}
+
+.site_layout_img{
+    padding: 20px;
+}
+
+.site_layout_content
+{
+    margin-top: 70px;
+}
+
+.industries_content{
+    padding: 30px 60px ;
+    font-size: small;
+}
+
+.industries_content h5{
+   color:#0275d8 ;
+}
+
+.client_layout{
+    margin-top: 50px;
+    background-color:#edf2fb;
+}
+
+.footer_content{
+    margin-top: 50px;
+    padding: 50px;
+    background: #0275d8 ;
+}
+
+.footer_content li a{
+    color: #fff;
+ text-decoration: none;
+
+}
+
+.footer_content li{
+    list-style: none;
+}
